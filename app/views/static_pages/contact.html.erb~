@@ -1,0 +1,72 @@
+<% provide(:title, 'Auditions') %>
+<h1>Auditions</h1>
+<!--auditions section -->
+    <section class="success" id="auditions">
+        
+                <div class="container">
+						<center><h3>Movie Auditions@INDIA</h3></center>
+						<div class="touch-grids">
+							<div class="col-md-4 touch-grid">
+								
+<p>We have started Auditions for our upcoming bilingual movies</p>
+
+<p>Languages: Tamil, Telugu, Hindi, and English</p>
+
+<p>Our motto to provide opportunities for NEW FACES/Talent for all the below mentioned roles:</p>
+
+    <p>1. Lead Actors/Actress,.</p>
+
+    <p>2. And all kind of support roles,.</p>
+
+    </div>
+		<div class="col-md-4 touch-grid">
+		<p>Please click the below link to know more details about our auditions:</p>
+
+<p>Date: To be announced.</p>
+
+<p>Location: Guntur, Andhra Pradesh (more locations to come)</p>
+
+<p>Tickets: Info will be provided very soon. Thank you.</p>
+
+
+
+<p>Send your applications/portfolios to:     auditions@iPG-Movies.com</p>
+
+<p>Like/Follow our Facebook page for latest updates:</p>
+
+<p>https://www.facebook.com/MovieAuditionsInIndia</p>
+
+
+<p>**Note: Auditions dates and location details will be announced very soon</p>
+
+</div>
+<div class="col-md-4 touch-grid">
+
+<h5>Head & Branch Office</h5>
+
+<p>Indian Pictures Group Worldwide (iPG)</p>
+c/o
+<p>LAKSHMI NANDINI FILM STUDIOS</p>
+<p>Sykam Masthan Reddy Estates,</p>
+<p>Ballavaram (V & P), Veligandla (M),</p>
+<p>Kanigiri (TQ), Prakasam (Dist)</p>
+<p>Andhra Pradesh, INDIA - 523 223</p>
+                                                 
+<p>E-mail: IndianPicturesGroupWorldwide@iPG-Movies.com</p>                 
+
+<p>E-mail: LakshmiNandiniFILMstudios@ipg-movies.com</p>
+
+<p>Web: www.iPG-Movies.com </p>                                 
+                            
+<p>www.facebook.com/IndieProducersGuild</p>    
+
+<p>www.facebook.com/MovieAuditionsinINDIA </p>           
+
+<p>www.facebook.com/LakshmiNandiniFILMstudios</p>
+</div>
+							<div class="clearfix"></div>
+						
+
+</section>
+
+
