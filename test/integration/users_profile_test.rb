@@ -20,4 +20,3 @@ class UsersProfileTest < ActionDispatch::IntegrationTest
     end
   end
 end
-
