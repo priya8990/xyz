@@ -10,6 +10,8 @@ gem 'mini_magick',             '4.5.1'
 gem 'fog',                     '1.38.0'
 gem 'will_paginate',           '3.1.0'
 gem 'bootstrap-will_paginate', '0.0.10'
+gem "passenger", ">= 5.0.25", require: "phusion_passenger/rack_handler"
+
 
 gem 'sass-rails',   '5.0.5'
 gem 'uglifier',     '3.0.0'
@@ -24,6 +26,11 @@ group :development, :test do
 end
 
 group :development do
+    gem 'capistrano',         require: false
+    gem 'capistrano-rvm',     require: false
+    gem 'capistrano-rails',   require: false
+    gem 'capistrano-bundler', require: false
+    gem 'capistrano3-puma',   require: false
   gem 'web-console',           '3.1.1'
   gem 'listen',                '3.0.8'
   gem 'spring',                '1.7.1'
