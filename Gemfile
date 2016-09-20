@@ -11,7 +11,7 @@ gem 'fog',                     '1.38.0'
 gem 'will_paginate',           '3.1.0'
 gem 'bootstrap-will_paginate', '0.0.10'
 gem "passenger", ">= 5.0.25", require: "phusion_passenger/rack_handler"
-
+gem 'unicorn'
 
 gem 'sass-rails',   '5.0.5'
 gem 'uglifier',     '3.0.0'
